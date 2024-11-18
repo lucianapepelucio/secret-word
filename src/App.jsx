@@ -43,7 +43,7 @@ function App() {
     // create an array of letters
     let wordLetters = word.split("");
 
-    wordLetters = wordLetters.map((letter) => letter.toLowerCase());
+    wordLetters = wordLetters.map((l) => l.toLowerCase());
 
     console.log(word, category);
     console.log(wordLetters);
