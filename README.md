@@ -1,7 +1,8 @@
 # Palavra Secreta
 
-O objetivo dessa aplicação é garantir que palavras sejam decifradas em até 3 tentativas. A cada letra errada digitada uma tentativa é esgotada.
-Jogo parecido com o famoso Forca.
+- O objetivo dessa aplicação é garantir que palavras sejam decifradas em até 3 tentativas.
+- A cada letra errada digitada uma tentativa é esgotada.
+- Jogo parecido com o famoso Forca.
 
 ## Para acessar o projeto:
 
@@ -18,10 +19,10 @@ npm run dev
 
 ## Layout da Aplicação
 
-![](assets/01.png)
-![](assets/02.png)
-![](assets/03.png)
-![](assets/04.png)
+![Imagem da tela inicial](./src/assets/01.png)
+![Imagem do início do jogo](./src/assets/02.png)
+![Imagem da interação com o jogo](./src/assets/03.png)
+![Imagem da tela de fim do jogo](./src/assets/04.png)
 
 # React + Vite
 
